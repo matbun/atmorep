@@ -1,0 +1,8 @@
+Config files
+Env:
+    - pyproj.toml
+    - Makefile
+    - Dockerfile, .dockeignore
+Format:
+    - PEP8
+    - GH linter
